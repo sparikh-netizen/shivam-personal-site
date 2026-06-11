@@ -33,7 +33,7 @@ const work = [
 ];
 
 const timeline = [
-  ['2017 - 2021', 'Built Spice Village', "Founded Berlin's first Indian grocery brand and scaled retail plus e-commerce operations to EUR 2M revenue in three years."],
+  ['2017 - 2021', 'Built Spice Village', "Founded Berlin's first Indian grocery brand and served a loyal cross-border community through retail plus e-commerce operations."],
   ['2021 - 2022', 'Joined Friday Finance early', 'Led squads across accounting, cashflow, and banking products, helping the company move through its early product and funding journey.'],
   ['2022 - 2023', 'Reduced friction with data', 'Built product analytics systems, integrated key APIs, and helped reduce churn across more than 15,000 active users.'],
   ['2023 - now', 'Product operator across Europe', 'Driving onboarding, KYC optimization, and company creation flows for SMBs while advising founders through ambiguous early decisions.'],
@@ -51,7 +51,6 @@ function App() {
       <header className="topbar">
         <div className="shell">
           <a className="brand" href="#top" aria-label="Shivam Parikh home">
-            <span className="mark">SP</span>
             <span className="brand-text">
               <strong>Shivam Parikh</strong>
               <span>Founder / Product Operator / Advisor</span>
@@ -72,11 +71,11 @@ function App() {
             <div className="hero-layout">
               <div>
                 <div className="status-row" aria-label="Current focus">
-                  <span className="pill"><span className="dot"></span> Available for founder/product advisory</span>
+                  <span className="pill"><span className="dot"></span> Founder / Product Advisory</span>
                   <span className="pill">Berlin built / Europe focused</span>
                 </div>
                 <h1>I turn messy beginnings into products, teams, and traction.</h1>
-                <p className="lead">I am Shivam Parikh: founder of Spice Village, product operator across European fintech, and advisor to builders who need sharper decisions before they need more noise.</p>
+                <p className="lead">I am Shivam Parikh; founder of Spice Village, product leader across various European fintechs, most recently at Qonto, and advisor to builders and dreamers who need sharper decisions amidst noise.</p>
                 <div className="hero-actions">
                   <a className="button" href="mailto:shivamparikh91@gmail.com">Start a conversation</a>
                   <a className="button secondary" href="https://www.dw.com/en/spice-village-indian-supermarket-in-berlin/video-70553309">Watch the DW feature</a>
@@ -89,12 +88,12 @@ function App() {
                 </div>
                 <div className="proof-float">
                   <div className="proof-chip">
-                    <b>EUR 2M</b>
-                    <span>Revenue scaled in three years through retail plus e-commerce.</span>
+                    <b>100K+</b>
+                    <span>Customers served through Spice Village retail and e-commerce.</span>
                   </div>
                   <div className="proof-chip">
-                    <b>15K+</b>
-                    <span>Users touched through product analytics, APIs, and churn work.</span>
+                    <b>DW</b>
+                    <span>Featured by Deutsche Welle for the Spice Village story.</span>
                   </div>
                 </div>
               </div>
